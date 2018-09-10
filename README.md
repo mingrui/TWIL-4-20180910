@@ -10,3 +10,6 @@ http://www.andrewjanowczyk.com
 
 Super detailed review of deep learning in biomedicine:  
 https://greenelab.github.io/deep-review/
+
+What are we talking about when we talk about proof of existence:  
+https://blog.dhimmel.com/irreproducible-timestamps/
