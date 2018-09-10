@@ -7,3 +7,6 @@ https://chrisyeh96.github.io/
 
 Andrew Janowczyk's blog:  Very detailed tutorials, very insightful  
 http://www.andrewjanowczyk.com
+
+Super detailed review of deep learning in biomedicine:  
+https://greenelab.github.io/deep-review/
